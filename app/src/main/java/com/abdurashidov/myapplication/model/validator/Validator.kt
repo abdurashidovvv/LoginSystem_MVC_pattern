@@ -1,0 +1,1 @@
+package com.abdurashidov.myapplication.model.validatorimport com.abdurashidov.myapplication.model.domain.Credentialinterface Validator {    fun validate(credential: Credential):Boolean}

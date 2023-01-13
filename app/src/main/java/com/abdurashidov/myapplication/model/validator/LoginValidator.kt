@@ -1,0 +1,1 @@
+package com.abdurashidov.myapplication.model.validatorimport com.abdurashidov.myapplication.model.domain.Credentialclass LoginValidator:Validator {    private val userCredential=Credential("username", "123456")    override fun validate(credential: Credential): Boolean {        return credential==userCredential    }}

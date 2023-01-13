@@ -1,0 +1,1 @@
+package com.abdurashidov.myapplication.model.observerinterface AccountObserver:DomainObserver {    fun accountLoggedIn()    fun accountUnknown()}

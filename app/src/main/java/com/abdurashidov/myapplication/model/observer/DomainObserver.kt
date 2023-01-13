@@ -1,0 +1,1 @@
+package com.abdurashidov.myapplication.model.observerinterface DomainObserver

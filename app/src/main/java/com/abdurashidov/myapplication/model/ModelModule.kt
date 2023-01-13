@@ -1,0 +1,1 @@
+package com.abdurashidov.myapplication.modelimport com.abdurashidov.myapplication.model.validator.LoginValidatorobject ModelModule {    val dataAccessLayer : DataAccessLayer by lazy { dataAccessLayer() }    private fun dataAccessLayer() = DataAccessLayer(LoginValidator(), AccountRepository())}

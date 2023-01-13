@@ -1,0 +1,1 @@
+package com.abdurashidov.myapplication.modelimport com.abdurashidov.myapplication.model.domain.Accountclass AccountRepository {    internal var account: Account = Account(firstName = "James", lastName = "Smith", email = "james.smith@foo.com")}

@@ -1,0 +1,1 @@
+package com.abdurashidov.myapplication.viewinterface LoginView {    fun getUserName():String    fun getPassword():String}
